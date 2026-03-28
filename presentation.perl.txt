@@ -1,0 +1,7 @@
+$name = "Marinela";
+$age = 25;
+$SO_grade = 12.45;
+
+print "My name is: $name\n";
+print "I'm $age years old.\n";
+print "I got $SO_grade marks in the subject of operating systems.\n\n";
